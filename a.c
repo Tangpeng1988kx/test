@@ -8,3 +8,8 @@ void test()
 {
 	printf("hello world\n");
 }
+
+void func ()
+{
+
+}
